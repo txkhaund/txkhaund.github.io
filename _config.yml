@@ -1,1 +1,9 @@
+# Site wide configuration
+
+title:      Tuja Khaund | Data Enthusiast
+locale:     en_US
+baseurl:    https://txkhaund.github.io/
+url:        https://txkhaund.github.io
+
+
 theme: jekyll-theme-minimal
